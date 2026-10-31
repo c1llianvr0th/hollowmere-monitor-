@@ -1,0 +1,9 @@
+asset_id,description,status,last_seen
+HV-001,Temperature sensor,ACTIVE,2019-10-31
+HV-002,Environmental controller,ACTIVE,2019-10-31
+HV-003,Network interface,REMOVED,2019-10-29
+HV-004,Power distribution unit,REMOVED,2019-10-29
+HV-005,Cooling fan,UNKNOWN,2019-10-31
+HV-006,Unknown device,UNREGISTERED,2019-10-31
+HV-007,Access controller,UNKNOWN,2019-10-31
+HV-008,Heartbeat module,UNREGISTERED,2019-10-31

@@ -1,0 +1,39 @@
+========================================
+HOLLOWMERE DATA VAULT
+RAW BUFFER CAPTURE
+========================================
+
+DEVICE: UNKNOWN
+RACK: 13
+CAPTURE DATE: 2019-10-31
+CAPTURE TIME: 03:07:00
+
+----------------------------------------
+
+[03:06:58] access granted: C.VROTH
+[03:06:59] checking device state
+[03:07:00] link up: eth0 (no cable)
+
+[03:07:00] buffer 0x7f3a:
+00 00 00 00 de ad be ef
+
+[03:07:01] buffer 0x7f4c:
+48 65 6c 70 00 00 00 00
+
+[03:07:01] heartbeat:
+3 beats, pause, 7 beats
+
+[03:07:02] unique payload=bjBfMG4zXzFzXzRsMG4z
+
+[03:07:02] checksum: OK
+
+[03:07:03] buffer 0x7f80:
+ff ff ff ff ff ff ff ff
+
+[03:07:03] connection closed by remote host (none)
+
+----------------------------------------
+
+END OF CAPTURE
+
+NO FURTHER DATA AVAILABLE.
