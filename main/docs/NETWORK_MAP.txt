@@ -1,0 +1,27 @@
+HOLLOWMERE DATA VAULT
+NETWORK INFRASTRUCTURE
+
+Main monitoring terminal
+    |
+    +--- hv-mon-01
+    +--- hv-mon-02
+    +--- hv-mon-03
+    +--- hv-mon-04
+              |
+              +--- Rack 01-12
+              |
+              +--- Rack 14
+
+Disconnected infrastructure:
+    |
+    +--- Rack 13
+          |
+          +--- UNKNOWN DEVICE
+          +--- UNKNOWN INTERFACE
+          +--- UNKNOWN STATUS
+
+Last network audit: 2019-10-31
+
+Note:
+Rack 13 is not present in the active topology.
+Do not attempt automatic discovery.

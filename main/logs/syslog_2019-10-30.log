@@ -1,0 +1,15 @@
+Oct 30 23:58:01 hv-mon kernel: ACPI: Power Button
+Oct 30 23:58:44 hv-mon cron[211]: (root) CMD (/opt/backup.sh)
+Oct 31 00:02:17 hv-mon monitor: environmental check passed
+Oct 31 00:15:22 hv-mon monitor: all racks responding
+Oct 31 01:12:09 hv-mon sshd[301]: Accepted publickey for cvroth
+Oct 31 01:14:11 hv-mon monitor: user cvroth logged in
+Oct 31 02:41:17 hv-mon monitor: rack 13 temp 4C
+Oct 31 02:41:18 hv-mon monitor: warning threshold exceeded
+Oct 31 02:42:03 hv-mon monitor: rack 13 response received
+Oct 31 02:42:03 hv-mon monitor: response length: 0 bytes
+Oct 31 03:06:58 hv-mon monitor: badge scan C.VROTH door 4
+Oct 31 03:07:00 hv-mon kernel: tty1: input without device
+Oct 31 03:07:01 hv-mon sshd[301]: session closed for cvroth
+Oct 31 03:07:02 hv-mon monitor: user count: 0 -> 1
+Oct 31 03:07:03 hv-mon monitor: environmental check failed

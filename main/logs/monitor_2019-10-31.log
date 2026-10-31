@@ -1,0 +1,13 @@
+[02:55:10] ACCESS: C.VROTH entered through door 4
+[02:58:31] SYSTEM: temperature monitoring started
+[03:00:00] SYSTEM: scheduled backup completed
+[03:02:14] WARNING: unexpected disk activity
+[03:04:51] WARNING: rack 13 responding to ping
+[03:05:12] WARNING: rack 13 is not registered
+[03:06:58] ACCESS: C.VROTH entered through door 4
+[03:07:00] SYSTEM: terminal input detected
+[03:07:01] SYSTEM: active users: 0
+[03:07:02] SYSTEM: active users: 1
+[03:07:03] SYSTEM: monitoring service restarted
+[03:07:04] SYSTEM: monitoring service restarted
+[03:07:05] SYSTEM: monitoring service restarted

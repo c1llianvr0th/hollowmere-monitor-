@@ -1,0 +1,43 @@
+# Hollowmere monitoring configuration
+# Last modified: 2019-10-31
+
+site: hollowmere-vault
+
+system:
+  hostname: hv-mon-04
+  environment: production
+  timezone: UTC
+  owner: infrastructure
+
+poll_interval: 3.07
+
+racks:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 14
+
+alerts:
+  temp_max_c: 38
+  temp_min_c: 10
+
+  notify: /dev/null
+  email: cvroth@hollowmere.local
+
+monitoring:
+  heartbeat: true
+  access_logs: true
+  environmental_checks: true
+
+# Rack 13 was removed from the monitoring list.
+# Ticket #1031 remains unresolved.
+# Do not restore its entry.

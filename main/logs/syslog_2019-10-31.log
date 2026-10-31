@@ -1,0 +1,12 @@
+Oct 31 03:07:04 hv-mon monitor: unknown process detected
+Oct 31 03:07:05 hv-mon monitor: process name: [unavailable]
+Oct 31 03:07:06 hv-mon kernel: device eth0 carrier lost
+Oct 31 03:07:07 hv-mon kernel: device eth0 carrier detected
+Oct 31 03:07:08 hv-mon monitor: incoming connection accepted
+Oct 31 03:07:09 hv-mon monitor: source address: 0.0.0.0
+Oct 31 03:07:10 hv-mon monitor: source address rejected
+Oct 31 03:07:11 hv-mon monitor: heartbeat detected
+Oct 31 03:07:12 hv-mon monitor: heartbeat count: 3
+Oct 31 03:07:13 hv-mon monitor: heartbeat count: 7
+Oct 31 03:07:14 hv-mon monitor: user count: 1
+Oct 31 03:07:15 hv-mon monitor: no active sessions
