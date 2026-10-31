@@ -1,0 +1,59 @@
+HOLLOWMERE INTERNAL MAIL EXPORT
+
+From: facilities@hollowmere.local
+To: cvroth@hollowmere.local
+Date: 2019-10-28 09:14:02
+Subject: Rack 13 Decommissioning
+
+Cillian,
+
+The rack has been marked as decommissioned.
+
+Please stop submitting temperature reports for it.
+
+Facilities has no record of an active device in that
+location.
+
+Regards,
+Facilities Team
+
+-----------------------------------------------
+
+From: cvroth@hollowmere.local
+To: facilities@hollowmere.local
+Date: 2019-10-28 09:22:51
+Subject: Re: Rack 13 Decommissioning
+
+I understand the paperwork says it is gone.
+
+But something is still responding.
+
+I have removed it from the configuration twice.
+
+It keeps returning.
+
+Please check the physical room.
+
+-----------------------------------------------
+
+From: facilities@hollowmere.local
+To: cvroth@hollowmere.local
+Date: 2019-10-28 09:30:11
+Subject: Re: Re: Rack 13 Decommissioning
+
+Cillian,
+
+There is no Rack 13.
+
+Please close ticket #1031.
+
+-----------------------------------------------
+
+From: cvroth@hollowmere.local
+To: UNKNOWN
+Date: 2019-10-31 03:07:00
+Subject: Re: Re: Re: Re:
+
+If this reaches you, do not answer.
+
+It knows when I am here.

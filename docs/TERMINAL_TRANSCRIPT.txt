@@ -1,0 +1,40 @@
+HOLLOWMERE TERMINAL
+SESSION: 2019-10-31
+
+03:06:54 > login: cvroth
+
+03:06:55 > authentication successful
+
+03:06:56 > monitoring service active
+
+03:06:57 > checking devices...
+
+03:06:58 > rack 13 detected
+
+03:06:59 > rack 13 is not registered
+
+03:07:00 > UNKNOWN DEVICE CONNECTED
+
+03:07:01 > user count: 0
+
+03:07:02 > user count: 1
+
+03:07:03 > identify user
+
+03:07:04 > C.VROTH
+
+03:07:05 > identity verification failed
+
+03:07:06 > identity verification passed
+
+03:07:07 > terminal input detected
+
+03:07:08 > terminal input detected
+
+03:07:09 > terminal input detected
+
+03:07:10 > session terminated
+
+03:07:11 > goodbye, cillian
+
+END OF TRANSCRIPT
